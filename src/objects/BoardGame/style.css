@@ -1,0 +1,31 @@
+.board-game {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-evenly;
+  perspective: 400px;
+}
+
+@media (min-width: 800px) {
+  body {
+    max-width: 100%;
+  }
+
+  .score-board {
+    max-width: 320px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .board-game {
+    display: grid;
+    min-height: 90vh;
+    justify-content: center;
+    align-content: center;
+    gap: 20px;
+    grid-template-columns: repeat(8, 140px);
+    grid-template-rows: minmax(90px, auto) repeat(3, 90px);
+
+  }
+}
