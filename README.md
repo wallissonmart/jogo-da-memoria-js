@@ -32,7 +32,7 @@ Para acessar a página bastar clicar no seguinte link: ---
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Vite](https://vitejs.dev/guide/#community-templates)
 
-<h1 align="left" id="imgs"> Imagens</h1>
+<h1 align="left" id="imgs">📸 Imagens</h1>
 
 <h3 align="left">Tela principal</h3>
 <img src="https://user-images.githubusercontent.com/93344198/167257669-43991330-1a8f-4d5e-9466-a0e44a54daed.jpg" />
