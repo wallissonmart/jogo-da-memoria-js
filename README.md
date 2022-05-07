@@ -6,6 +6,7 @@
  <a href="#acessar">Como acessar</a> • 
  <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#imgs">Imagens</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -30,6 +31,10 @@ Para acessar a página bastar clicar no seguinte link: ---
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Vite](https://vitejs.dev/guide/#community-templates)
+
+<h1 align="left" id="imgs">🛠️ Imagens</h1>
+![jogo-da-memoria-futebol](https://user-images.githubusercontent.com/93344198/167257669-43991330-1a8f-4d5e-9466-a0e44a54daed.jpg)
+
 
 <h1 align="left" id="autor">✍️ Autor</h1>
 <a href="https://github.com/wallissonmart">
